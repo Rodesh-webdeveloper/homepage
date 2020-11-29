@@ -35,3 +35,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+<h3>Tag Question</h3>
+<b>Remember things  while learning tag-question.</b>
+<pre>
+  1) The structure of the tag question is 'common + auxilibary verb +subject + quesetion marks'.
+  2) Use a common to spearate the statement and the tag qusetion.
+  3) End the tag question with a question mark.
+  4) Use the contracted forms of negative auxiliaries (isn't, hasn't, wasn't, weren't, ...).
+  5) Use the same auxiliary verb.
+  6) Use "don't/didn't/doesn't" if there is no auxiliary.
+  7) The subjec should agree with auxiliary verb.
+  8) Always use single pronouns. Do not use nouns as the subject of the tag.
+  9) Use only nine pronouns (I, we, you, he, she, it ,thery, there, one).
+ </pre>
